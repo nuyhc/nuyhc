@@ -23,7 +23,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spec327)](https://solved.ac/spec327)
 
 ![nuyhc github stats](https://github-readme-stats.vercel.app/api?username=nuyhc&show_icons=true&count_private=true&theme=gruvbox)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuyhc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+ 
 </div>
 
