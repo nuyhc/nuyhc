@@ -13,9 +13,9 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=FFFFFF&"/>  
- 
- 
- 
+   
+   
+   
 <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF&"/>
 
 ⚒️Development Tools⚒️
