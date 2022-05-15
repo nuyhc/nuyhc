@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=FFFFFF&"/>  
  
  
+ 
 <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF&"/>
 
 ⚒️Development Tools⚒️
@@ -24,9 +25,12 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=FFFFFF&"/>  
  
  
+ 
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=FFFFFF&"/>
 
+ 
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnuyhc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spec327)](https://solved.ac/spec327)
