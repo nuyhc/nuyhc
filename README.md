@@ -3,10 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A243F2&height=300&section=header&text=welcome&desc=Nuyhc%20Github%20Profile&fontSize=100&animation=scaleIn&descSize=25&descAlign=65&descAlignY=65&fontColor=FFFFFF)
 
 📫 How to contact me📫  
+ 
 <a href="https://www.instagram.com/nuyhc_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://nuyhc.github.io/"><img src="https://img.shields.io/badge/Github%20Pages-222222?style=plastic&logo=githubpages&logoColor=FFFFFF"/></a>
   
 🌱To study and To Use🌱  
+ 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=FFFFFF&"/>
@@ -15,6 +17,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF&"/>
 
 ⚒️Development Tools⚒️  
+ 
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=FFFFFF&"/>
 
