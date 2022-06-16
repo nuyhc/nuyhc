@@ -21,14 +21,18 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=FFFFFF&"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=FFFFFF&"/>  
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF&"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=FFFFFF&"/>  
+<img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=FFFFFF&"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=FFFFFF&"/>  
+<img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=FFFFFF&"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF&"/>  
 <img src="https://img.shields.io/badge/scikitlearn-7931E?style=plastic&logo=scikitlearn&logoColor=FFFFFF&"/>
 
- 
+
  
 ⚒️ **Development Tools** ⚒️   
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF&"/>
+ <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=FFFFFF&"/>  
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=FFFFFF&"/>
@@ -37,7 +41,6 @@
 * * *  
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spec327)](https://solved.ac/spec327)
-
 ![nuyhc github stats](https://github-readme-stats.vercel.app/api?username=nuyhc&show_icons=true&count_private=true&theme=gruvbox)  
 
 * * *
