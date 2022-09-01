@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/scikitlearn-7931E?style=plastic&logo=scikitlearn&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=FFFFFF&"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=FFFFFF&"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=FFFFFF&"/>
+
 
  
 ⚒️ **Development Tools** ⚒️   
