@@ -15,6 +15,5 @@
 
 ### 💬 Contact
 <a href="https://nuyhc.github.io/"><img src="https://img.shields.io/badge/Blog-AFB4FF?style=flat&logo=githubpages&logoColor=FFFFFF"/></a>
-<a href="https://www.notion.so/7c2f421cc2844b64869e50b8260c499a"><img src="https://img.shields.io/badge/Resume-B1E1FF?style=flat&logo=notion&logoColor=FFFFFF"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=6C2DC7&height=80&section=footer)
